@@ -7,4 +7,4 @@ RUN apt update
 RUN mkdir -p aal/testing
 
 
-EXPOSE 80
+EXPOSE 80 
