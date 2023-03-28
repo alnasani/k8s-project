@@ -1,4 +1,4 @@
-- hosts: 172.31.3.4
+- hosts: ubuntu@172.31.3.4  
   become: true
   tasks:
     - name: create new deployment 
